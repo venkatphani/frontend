@@ -1,0 +1,17 @@
+module.exports = {
+  api_base_url: "https://safe-ocean-62148.herokuapp.com/",
+  seedData: [
+    {
+      name: "Natural One",
+      versions: ["1.0.0", "1.0.1", "1.1.0", "2.0.0"],
+    },
+    {
+      name: "Techno 01",
+      versions: ["1.0.0", "1.1.1", "2.0.1"],
+    },
+    {
+      name: "Sporty",
+      versions: ["1.0.0", "1.1.0", "1.2.0", "1.2.1", "1.3.0", "2.0.0"],
+    },
+  ],
+};
