@@ -1,5 +1,5 @@
 module.exports = {
-  api_base_url: "https://safe-ocean-62148.herokuapp.com/",
+  api_base_url: "https://safe-ocean-62148.herokuapp.com",
   seedData: [
     {
       name: "Natural One",
